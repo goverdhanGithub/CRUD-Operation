@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Vishal Patidar",
+      "username": "vishal99",
+      "email": "vishal@gmail.com",
+      "phone": "1111111111",
+      "website": "vishal.com",
+      "id": 1
+    },
+    {
+      "name": "Nirmal Patidar",
+      "username": "nirmal88",
+      "email": "nirmal@gmail.com",
+      "phone": "000000000",
+      "website": "nirmalseth.com",
+      "id": 2
+    }
+  ]
+}
